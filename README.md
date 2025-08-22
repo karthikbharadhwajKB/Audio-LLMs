@@ -1,2 +1,2 @@
-# Audio-LLMs-
+# Audio-LLMs
 Encoder based Audio LLMs
